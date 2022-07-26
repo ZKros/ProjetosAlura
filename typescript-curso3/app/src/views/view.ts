@@ -15,7 +15,7 @@ export abstract class View<T> {
         }
     }
  
-		@logarTempoDeExecucao(true)
+		// Mostra o tempo de execução @logarTempoDeExecucao(true)
 		// Sem parâmentro  @inspect 
     public update(model: T): void {
 
