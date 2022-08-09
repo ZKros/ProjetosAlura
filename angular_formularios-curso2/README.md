@@ -1,1 +1,1 @@
-# angular_2_curso
+# Angular Curso 2 - Alura
